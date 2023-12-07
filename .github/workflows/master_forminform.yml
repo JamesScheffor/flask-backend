@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'forminform'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_24CF26AB4FB54D0D99E8F279CEC84865 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2B63E440DA94C7FACA2CA4E1B88C745 }}
